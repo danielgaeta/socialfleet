@@ -1,0 +1,6 @@
+module.exports = {
+	TWITTER_KEY : '	RXa8NYSOHMHiI5dimTmBkr6PG',
+	TWITTER_SECRET : 'ELUYyiA27n8T0MJ8Y8ciTfsSEhCsQGd191wjjCPi4xV6PI2pF9',
+	TWITTER_CALLBACK : 'http://localhost:8000',
+	TOKEN_SECRET: 'blah'
+}
